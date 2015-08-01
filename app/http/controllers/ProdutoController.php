@@ -9,6 +9,7 @@
 namespace MinhaAppTest\Http\Controllers;
 
 
+use MinhaAppTest\AvaliacaoProduto;
 use MinhaAppTest\Http\Requests\ProdutoRequest;
 use MinhaAppTest\Produto;
 
